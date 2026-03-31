@@ -1,4 +1,4 @@
-# The given project contains 5 tasks each representing every importent topic of Digital literacy
+# The given project contains 5 tasks each representing every important topic of Digital literacy
 Name- Digvendra Singh Chawda/25BAI10801
 ### Task 1 – Digital Literacy Awareness Infographic *(Module 1)*
 Created a one-page infographic using **Canva** covering what digital literacy is, safe internet practices, and building a professional online presence. The design uses colour-coded sections and icons to make the content accessible to peers.
